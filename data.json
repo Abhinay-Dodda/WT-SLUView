@@ -1,0 +1,92 @@
+{
+  "business": {
+    "name": "Protagonist Cafe",
+    "city": "St. Louis, MO",
+    "category": "Cafe",
+    "price": "$$",
+    "overall_rating": 4.7,
+    "review_count": 215
+  },
+  "reviews": [
+    {
+      "reviewer": "J L.",
+      "rating": 5,
+      "date": "Jun 30, 2025",
+      "text": "Traveling from New England to California, we knew nothing about the area except for an article that described PC as great place to sit and have a coffee. Latte's were excellent, bathroom clean, dog friendly and let me feed my tiny dog inside! Artsy bookstore feel inside, other guest were friendly and all helped create a great coffee shop vibe.  Only critique: busy, so a LITTLE slow.. keep in mind, I'm used to Boston fast. Highly recommend. 5 stars!",
+      "location": "New Bedford, MA",
+      "is_elite_reviewer": false
+    },
+    {
+      "reviewer": "Vinnie M.",
+      "rating": 5,
+      "date": "Jun 28, 2025",
+      "text": "Popped in here for coffee after lunch.  It looked like an interesting,  cute coffee shop,  and it was. Inside,  there are tables and old/used books everywhere.  Great vibe.  They have outdoor seating as well. They have all the coffee choices you could want,  and they have wine and some light food as well. Everything we had was yummy. Go. Here.",
+      "location": "Kansas City, MO",
+      "is_elite_reviewer": true
+    },
+    {
+      "reviewer": "Alicia D.",
+      "rating": 5,
+      "date": "May 19, 2025",
+      "text": "Tried the Protagonist Cafe for the first time today! Came mostly for the sweets, as I don't normally enjoy coffee. Decided I would go ahead and try their coffee, though, and the barista was quick to answer my questions, and very kind! (It's a bit embarrassing to have to ask \"what is a latte\" lol.) Ordered a samoa cookie and iced samoa latte upon the barista's recommendation, while my husband ordered the double chocolate chip cookie and chai latte - tasty! We very much enjoyed them! The double chocolate cookie was made all the more enjoyable after they warmed it up, melting the chocolate chips inside. In addition to lattes, I noted that the cafe also served tea, soda, wine, and cocktails with or without coffee (the Irish Coffee was tempting, but a little early in the day, lol). In addition to baked goods, the cafe was serving ice cream! The atmosphere was quiet, much quieter than I would normally associate with a cafe; a lot of customers were busy working on their laptops with headphones plugged in, or reading. That said, it wasn't so quiet that it felt weird to be talking inside the cafe, and they plenty of tables and seating for small groups - we were part of a party of four and quickly found a table upon entering the cafe. While the quiet atmosphere was no problem for us (I found it quite pleasant, though I'm soft spoken so it wouldn't have been an issue anyways), louder parties will be happy to know that there is picnic benches outside, on the sidewalk in front of the cafe. Looking forward to returning in the future! I can see it being the perfect place to do some work of my own - a nice change of venue! I'll also have to check out their sister-store, The Antagonist",
+      "location": "Cape Girardeau, MO",
+      "is_elite_reviewer": false
+    },
+    {
+      "reviewer": "Austin S.",
+      "rating": 5,
+      "date": "May 5, 2025",
+      "text": "A staple in soulard for a reason. Protagonist is an awesome spot to cozy up, study, and enjoy some coffee. Or, just go catch up with an old friend They have tons of great housemade flavors that are pretty adventurous as well. My favorite was the tragedy. It was a white-chocolate cranberry. Super creamy, smooth, and just a bit of tart from the cranberry. An excellent drink. The workers are wonderful, super nice, patient, and absolutely fantastic at making a dang good cup of coffee. They have a solid selection of pastries also. All in all, an amazing spot to kick back, relax, and just be still.",
+      "location": null,
+      "is_elite_reviewer": true
+    },
+    {
+      "reviewer": "Kelse S.",
+      "rating": 5,
+      "date": "Apr 8, 2025",
+      "text": "Always one of my favorite spots to grab coffee! It's so quaint and open, well lit, tons of books, and lots of room to work. Sometimes it can be a challenge to find a table to yourself, but it's never been an issue for others if we share a table. They have a variety of baked options and coffee drinks, as well as beer and wine. Whether you're there to get some work done, read, socialize, or just relax, you definitely won't be disappointed. It kind of gives a cozy library feel. One side of the street outside is paid parking and the other isn't, so pay attention. Parking directly outside is free!",
+      "location": null,
+      "is_elite_reviewer": true
+    },
+    {
+      "reviewer": "Bella S.",
+      "rating": 5,
+      "date": "Sep 15, 2025",
+      "text": "Quaint, quirky, and quiet--The Protagonist is the perfect spot to curl up with a book or hunker down to study. Seating can be limited since it's often one person per table, but it's worth the hunt. Their pastry case may be small, but the quality makes up for it--I had the Parmesan leek croissant and blueberry muffin, both tasty and far from anything you'd grab at the grocery store. The coffee itself is fine, but the seasonal Great Pumpkin is a must-try for peak fall vibes. They even serve beer, wine, and ice cream, all reasons for me to come back again.",
+      "location": "Saint Louis, MO",
+      "is_elite_reviewer": false
+    },
+    {
+      "reviewer": "Ami A.",
+      "rating": 5,
+      "date": "May 18, 2025",
+      "text": "Loved everything about this coffee shop! The play on words, the extensive library inside, the coffee and the baked treats! We ordered one savory and one sweet baked good. Delicious coffee and a great place to relax, catch up with friends, work remote, or read a book. Great neighborhood too!",
+      "location": null,
+      "is_elite_reviewer": true
+    },
+    {
+      "reviewer": "Georgia S.",
+      "rating": 5,
+      "date": "Sep 5, 2025",
+      "text": "Excellent coffee, interesting desserts. Seating is random mix of vintage sofas, lounge chairs, coffee tables and cafe tables & chairs",
+      "location": "Maryland Heights, MO",
+      "is_elite_reviewer": false
+    },
+    {
+      "reviewer": "Ali L.",
+      "rating": 5,
+      "date": "Jul 21, 2025",
+      "text": "Lovely atmosphere that makes you feel like the main character from your favorite novel! The iced lattes are delicious and have cute names. I would go here for a date or to read with a friend. The service is great and quick!",
+      "location": "Downtown,MO",
+      "is_elite_reviewer": true
+    },
+    {
+      "reviewer": "Jade H.",
+      "rating": 5,
+      "date": "Nov 16, 2024",
+      "text": "Always a treat going to Protagonist. Tried out their seasonal fit latte (with oat milk) with a blueberry muffin. It's so nice they can warm up the muffin! Made for a very cozy day. Also the latte was delicious. The service is always great. I'm glad they communicate honest wait times and are so very kind about it. They're a delight and make the experience better.",
+      "location": "Saint Louis, MO",
+      "is_elite_reviewer": true
+    }
+  ]
+}

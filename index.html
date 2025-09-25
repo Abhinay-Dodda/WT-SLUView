@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>SLUview — Mini Reviews</title>
+  <link rel="stylesheet" href="slu.css" />
+</head>
+<body>
+  <header class="site-header">
+    <h1>SLUview</h1>
+    <p class="tagline">Small, responsive review viewer — demo for HW1</p>
+  </header>
+
+  <main class="layout">
+    <aside class="col col-a">
+      <section class="panel">
+        <h2>Filters</h2>
+        <div class="filter-group">
+          <label>Category</label>
+          <select><option>All</option><option>Restaurant</option><option>Cafe</option><option>Hotel</option></select>
+        </div>
+        <div class="filter-group">
+          <label>Price</label>
+          <div class="chips"><span>$</span><span>$$</span><span>$$$</span></div>
+        </div>
+        <div class="filter-group">
+          <label>Rating</label>
+          <div class="chips"><span>★ 4+</span><span>★ 3+</span></div>
+        </div>
+      </section>
+
+      <section class="panel">
+        <h3>Nearby</h3>
+        <ul class="nav-list">
+          <li><a href="#">Cafes</a></li>
+          <li><a href="#">Restaurants</a></li>
+          <li><a href="#">Hotels</a></li>
+        </ul>
+      </section>
+    </aside>
+
+    <section class="col col-b">
+      <h2>Featured Businesses</h2>
+
+      <article class="biz-card">
+  <h3 class="biz-name">Minerva Indian Cuisine</h3>
+  <div class="meta">Indian Restaurant · St. Louis, MO · $$ · ★ 4.5</div>
+  <p class="blurb">Authentic Indian flavors with a variety of vegetarian and non-vegetarian dishes. Famous for dosas and curries.</p>
+</article>
+
+
+<article class="biz-card">
+  <h3 class="biz-name">Protagonist Cafe</h3>
+  <div class="meta">Cafe · St. Louis, MO · $$ · ★ 4.7</div>
+  <p class="blurb">Book-themed cafe with specialty lattes, pastries, and a cozy study atmosphere.</p>
+</article>
+
+      <article class="biz-card">
+  <h3 class="biz-name">Kounter Kulture</h3>
+  <div class="meta">Asian Fusion · St. Louis, MO · $$ · ★ 4.6</div>
+  <p class="blurb">Tiny eatery offering globally inspired street food made with fresh, local ingredients.</p>
+</article>
+
+
+      <article class="biz-card">
+  <h3 class="biz-name">Café Napoli</h3>
+  <div class="meta">Italian Restaurant · Clayton, MO · $$$ · ★ 4.4</div>
+  <p class="blurb">Family-owned Italian spot serving pasta, seafood, and cocktails with a lively evening atmosphere.</p>
+</article>
+
+    </section>
+
+    <aside class="col col-c">
+      <h2>Latest Reviews</h2>
+      <div id="reviews-container">
+        <noscript>
+          <p><em>JavaScript is required to load reviews dynamically. If disabled, copy reviews manually into this area.</em></p>
+        </noscript>
+      </div>
+    </aside>
+  </main>
+
+  <footer class="site-footer">
+    <small>SLUview — HW1 demo</small>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
